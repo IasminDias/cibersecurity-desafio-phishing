@@ -18,4 +18,4 @@
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+![Alt text](.[/passwd.png "Optional title](https://github.com/IasminDias/cibersecurity-desafio-phishing/blob/master/printsenhacapturada.PNG)https://github.com/IasminDias/cibersecurity-desafio-phishing/blob/master/printsenhacapturada.PNG")
